@@ -28,3 +28,10 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams help you easily see the parent history of each commit on a branch as well as the relationship
 between branches. 
+
+*********************
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is you are left with one master branch with a history of all the commits of both branches included.
+We represent it like this to show that when the two branches are combined there will still be a master branch. 
