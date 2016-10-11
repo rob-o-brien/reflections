@@ -8,3 +8,9 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is a halfway house between the working directory and the repository. It allows you to select only
 the files in the working directory you want added to the repository rather than all of them. 
+
+********************
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area allows you to pick and choose which files to add to it thus each commit you do can be selective.
