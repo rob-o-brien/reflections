@@ -14,3 +14,10 @@ the files in the working directory you want added to the repository rather than 
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area allows you to pick and choose which files to add to it thus each commit you do can be selective.
+
+*********************
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you wanted to experiment with new features, or create a different version of the program. 
+Branches help by using a human readable name and branches can be merged later on if need be. 
