@@ -35,3 +35,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is you are left with one master branch with a history of all the commits of both branches included.
 We represent it like this to show that when the two branches are combined there will still be a master branch. 
+
+**********************
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging only works when the same code block hasn't been edited by more than one branch but is very quick compared
+to manually merging every branch. 
