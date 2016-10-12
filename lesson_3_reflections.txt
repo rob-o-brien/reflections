@@ -7,3 +7,12 @@ When you want to share it with others, use a different PC or store it remotely f
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 In case someone else has made changes to the same branch you are currently checking out.
+
+*************************
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is part of a repository whereas clones and forks are copies of a repository.
+
+You use a branch to create a seperate version of a local repository, you use clone to create a copy of an existing 
+repository and you use fork to clone someone elses repository.
