@@ -31,3 +31,12 @@ I would share files on Dropbox. If we were sure no edits would cause a conflict 
 to review the history of changes it would be easier but as soon as we both started editing the same portions
 of files then it would become much harder without Github. 
 
+***********************
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are collaborating you do not want your changes to effect the master branch until it has been agreed upon by others. You initiate
+a pull request to do so. 
+
+The benefit of commiting directly to master is that it's more straightforward. 
+
