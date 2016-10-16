@@ -16,3 +16,10 @@ A branch is part of a repository whereas clones and forks are copies of a reposi
 
 You use a branch to create a seperate version of a local repository, you use clone to create a copy of an existing 
 repository and you use fork to clone someone elses repository.
+
+*************************
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to do a diff on the local and the locally stored remote before merging and committing
+
