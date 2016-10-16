@@ -23,3 +23,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It allows you to do a diff on the local and the locally stored remote before merging and committing
 
+***************************
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would share files on Dropbox. If we were sure no edits would cause a conflict and it wasn't too important
+to review the history of changes it would be easier but as soon as we both started editing the same portions
+of files then it would become much harder without Github. 
+
